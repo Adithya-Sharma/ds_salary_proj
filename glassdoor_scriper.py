@@ -3,6 +3,7 @@
 Created on Wed May 20 17:40:07 2020
 
 @author: Dell
+https://github.com/arapfaik/scraping-glassdoor-selenium/blob/master/glassdoor%20scraping.ipynb
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException

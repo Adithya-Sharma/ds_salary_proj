@@ -1,4 +1,4 @@
-Job Title,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Job Title,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,company text,same_place,age,python_yn,Spark,aws,excel
 Senior Data Scientist - GAIA,"Date: Mar 26, 2020
 
 Ericsson is one of the leading providers of Information and Communication Technology (ICT) to service providers. We enable the full value of connectivity by creating game-changing technology and services that are easy to use, adopt, and scale, making our customers successful in a fully connected world. Headquartered in Stockholm, Sweden, Ericsson is proud of its global presence across 100+ countries and market areas. With a strong focus on innovation, we possess 49 thousand registered patents and a global strength of over 95 thousand competent professionals. We also take pride in supporting networks that cater to a capacity of 40 percent of the world’s mobile traffic, thereby connecting more than 2.5 billion subscribers and counting. We are a world leader in the rapidly changing environment of communications technology – by providing hardware, software, and services to enable the full value of connectivity.
@@ -74,7 +74,8 @@ Experience with data visualization and dashboard creation is a plus
 Ability to work independently with high energy, enthusiasm and persistence
 Experience in partnering and collaborative co-creation, i.e., working with complex multiple stakeholder business units, global customers, technology and other ecosystem partners in a multi-culture, global matrix organization with sensitivity and persistence
 Ericsson provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, marital status, pregnancy, parental status, national origin, ethnic background, age, disability, political opinion, social status, veteran status, union membership or genetics. Ericsson complies with applicable country, state and all local laws governing nondiscrimination in employment in every location across the world in which the company has facilities. In addition, Ericsson supports the UN Guiding Principles for Business and Human Rights and the United Nations Global Compact. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, training and development. Ericsson expressly prohibits any form of workplace harassment based on race, color, religion, sex, sexual orientation, marital status, pregnancy, parental status, national origin, ethnic background, age, disability, political opinion, social status, veteran status, union membership or genetic information.",3.9,"Ericsson-Worldwide
-3.9",Bengaluru,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,₹500+ billion (INR),"Huawei Technologies, IBM, Cisco Systems"
+3.9",Bengaluru,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,₹500+ billion (INR),"Huawei Technologies, IBM, Cisco Systems","Ericsson-Worldwide
+",0,144,1,1,1,0
 Senior Data Scientist (ML/Deep Learning Expert),"Skills:
 1. Good understanding of basics of Statistics, Probability, Linear Algebra and Calculus
 2. Should be able to explain all ML/DS projects mentioned in resume
@@ -106,7 +107,8 @@ Our Values
 
 If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
 Check out Blue Yonder's blog - Supply Chain Nation - the platform for supply chain trends and innovations.",4.3,"Blue Yonder
-4.3",Bengaluru,"Scottsdale, AZ",5001 to 10000 employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 billion (INR),"SAP, Oracle, Manhattan Associates"
+4.3",Bengaluru,"Scottsdale, AZ",5001 to 10000 employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 billion (INR),"SAP, Oracle, Manhattan Associates","Blue Yonder
+",0,35,1,0,0,0
 Data Scientists,"CAREERS
 
 Data Scientists
@@ -133,7 +135,8 @@ ELIGIBILITY CRITERIA
 
 BE/B. Tech/MS degree in Computer Science or related quantitative field with 2-8 years or relevant experience in a team building world class applications in the areas of Predictive Analytics and Data Science.
 Send your CV to careers@tredence.com",3.7,"Tredence
-3.7",Bengaluru,"San Jose, CA",501 to 1000 employees,2013,Company - Private,Consulting,Business Services,₹1 to ₹5 billion (INR),-1
+3.7",Bengaluru,"San Jose, CA",501 to 1000 employees,2013,Company - Private,Consulting,Business Services,₹1 to ₹5 billion (INR),-1,"Tredence
+",0,7,1,0,0,1
 "Staff Engineer, Machine Learning","Twilio seeks a Staff Machine Learning Engineer to be a key leader in defining a new product offering at Twilio in the customer engagement space. The person in this role will be critical in shaping Twilio's data and intelligence strategy, which will empower our customers to create highly personalized communications and experiences for their contacts. Come be part of a team that's building a set of ML-driven APIs that deliver intelligent audience and personalization recommendations.
 
 Who?
@@ -173,7 +176,8 @@ This position will be located in our office in Bangalore, India. You will enjoy 
 About us:
 
 Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world's communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world's most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world's largest organizations — to reinvent how companies engage with their customers.",3.9,"Twilio
-3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1
+3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1,"Twilio
+",0,12,1,1,1,1
 Data Scientist Intern,"Amazon's looking for Data Scientist to optimize one of the most complex logistics systems in the world. Academic and/or practical background in Computer Science, Engineering, Operations Research, or Process Control are particularly relevant for this position. Experience in the integration of model-based engineering tools and/or multidisciplinary analysis & optimization is also a plus.
 Major Responsibilities:
 · Use data analyses and statistical techniques to develop solutions to improve customer experience and to guide business decision making
@@ -200,7 +204,8 @@ Masters or equivalent advanced degree in Computer Science, Computer Engineering,
 • Academic Experience with Big Data platforms like Apache Spark and Hadoop.
 • Familiarity with data processing with Python, R & SQL.
 • Familiarity with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,1,1,1
 Machine Learning Engineer,"Role: Machine Learning Engineer
 
 Job Description-
@@ -222,7 +227,8 @@ The Data Scientist is responsible to perform statistical and Machine Learning/De
 Developing advanced algorithms that solve problems of large dimensionality in a computationally efficient and statistically effective manner Implementing statistical and data mining techniques e.g. hypothesis testing, machine learning, and retrieval processes on a large amount of data to identify trends, patterns and other relevant information
 Understanding and the experience on the data science model development and operationalization lifecycle
 Lead multiple data science projects and help delivery lead in end to end delivery.",3.5,"Antal International
-3.5",Bengaluru,"London, United Kingdom",1001 to 5000 employees,1993,Franchise,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+3.5",Bengaluru,"London, United Kingdom",1001 to 5000 employees,1993,Franchise,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,"Antal International
+",0,27,0,0,1,0
 Machine Learning/Deep Learning Experts,"We at CrunchMetrics are looking for talented Machine Learning Scientist with a background in Machine Learning development who desires to work on building solutions to complex challenges and can create, innovate, and define the next generation of autonomous analytics solutions. This role requires an expert level of data science knowledge as well as experience with data science techniques, systems and processes.
 
 The position will report to the Head of Strategy and Products at CrunchMetrics and will be based in Bangalore, India
@@ -239,7 +245,7 @@ Strong hands on skill in Python using libraries like NLTK, SkLearn or Hands on i
 Proven background in at least one of the following – Reliability models, Markov Models, Stochastic models, Bayesian Modelling, Classification Models, Cluster Analysis, Neural Network, Non-parametric Methods, Multivariate Statistics.
 Experience working with large data sets and tools like Elastic Search, Spark and Hive.
 Excellent communication skills including the ability to present technical concepts to a wide range of audiences, both internal and external.
-Ability to work effectively across teams.",-1,CrunchMetrics,Bengaluru,"Broomfield, CO",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+Ability to work effectively across teams.",-1.0,CrunchMetrics,Bengaluru,"Broomfield, CO",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,CrunchMetrics,0,-1,1,1,0,1
 Data Scientist,"What You Should Expect
 
 To ride the wave of AI/ML with deeply enmeshed Operations Research and Mathematics to make real impact in the world of Supply Chain Planning, Retail and Execution.
@@ -273,7 +279,8 @@ Our Values
 If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
 
 Check out JDA's blog - Supply Chain Nation - the platform for supply chain trends and innovations.",4.3,"Blue Yonder
-4.3",Bengaluru,"Scottsdale, AZ",5001 to 10000 employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 billion (INR),"SAP, Oracle, Manhattan Associates"
+4.3",Bengaluru,"Scottsdale, AZ",5001 to 10000 employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 billion (INR),"SAP, Oracle, Manhattan Associates","Blue Yonder
+",0,35,0,0,0,0
 Director Machine Learning,"Requirements
 
 We are looking for applicants with a strong background in Analytics and Data mining (Web, Social and Big data), Machine Learning, Pattern Recognition, Natural Language Processing, Computational Linguistics, Statistical Modelling, Inferencing, Information Retrieval, Large Scale Distributed Systems, Cloud Computing, Econometrics, Quantitative Marketing, Applied Game Theory, Mechanism Design, Operations Research, Optimization, Human Computer Interaction and Information Visualization. Applicants with a background in other quantitative areas are also encouraged to apply.
@@ -309,7 +316,8 @@ Preferred experience with large data sets & distributed computing in Hadoop ecos
 Strong problem-solving skills
 Fluency with databases
 Benefits",3.4,"Zycus
-3.4",Bengaluru,"Princeton, NJ",501 to 1000 employees,1998,Company - Private,Computer Hardware & Software,Information Technology,₹500 million to ₹1 billion (INR),"SAP Ariba, GEP, Coupa Software Inc"
+3.4",Bengaluru,"Princeton, NJ",501 to 1000 employees,1998,Company - Private,Computer Hardware & Software,Information Technology,₹500 million to ₹1 billion (INR),"SAP Ariba, GEP, Coupa Software Inc","Zycus
+",0,22,1,0,0,0
 Machine Learning Engineer - Customer Engagement,"Because you belong at Twilio.
 
 The Who, What, Why and Where
@@ -353,7 +361,8 @@ This position will be located in our office in Bangalore, India. You will enjoy 
 About us:
 
 Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world's communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world's most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world's largest organizations — to reinvent how companies engage with their customers.",3.9,"Twilio
-3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1
+3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1,"Twilio
+",0,12,1,1,1,1
 Senior Data Scientist,"Amazon strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon continues to grow and evolve as a world-class e-commerce platform. Amazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA.
 
 Amazon Seller Services is looking for a Data Scientist to work hands on from concept to delivery on statistical analysis, prescriptive and predictive analysis, and machine learning implementation projects. We are looking for a problem solver with strong analytical skills and a solid understanding of statistics & Machine learning algorithm as well as a practical understanding of collecting, assembling, cleaning and setting up disparate data from enterprise systems.
@@ -398,7 +407,8 @@ Preferred Qualifications
 · Conceptual understanding of Hadoop and cloud computing like AWS is preferred
 · Demonstrated participation in contests like Kaggle is a plus
 · Experience in the eCommerce, marketplace or supply chain areas is a plus.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,1,0
 Developer Technology Engineer - AI,"NVIDIA is looking for a passionate, world-class computer scientist to work in its Compute Developer Technology (Devtech) team.
 
 What you will be doing:
@@ -419,7 +429,8 @@ Where engines made us stronger and powered the first industrial revolution, AI w
 NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us. Are you a creative and autonomous computer scientist with a genuine passion for parallel computing? Do you love a challenge? If so, we want to hear from you. Come, join our AI Compute DevTech team and help build the real-time, cost-effective computing platform driving our success in this exciting and quickly growing field.
 
 NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",4.5,"NVIDIA
-4.5",Bengaluru,"Santa Clara, CA",10000+ employees,1993,Company - Public,Computer Hardware & Software,Information Technology,₹500+ billion (INR),-1
+4.5",Bengaluru,"Santa Clara, CA",10000+ employees,1993,Company - Public,Computer Hardware & Software,Information Technology,₹500+ billion (INR),-1,"NVIDIA
+",0,27,0,0,0,0
 ML (Machine Learning) Engineer,"Danaher Corporation
 Danaher is a global science and technology innovator with more than 59,000 associates committed to helping our customers solve complex challenges and improve quality of life around the world. Our world class brands have unparalleled leadership positions in some of the most demanding and attractive industries and our technologies address a broad range of societal needs:
 Protecting the global water supply and ensuring environmental stewardship
@@ -450,7 +461,7 @@ Knowledge of Deep Learning frameworks: Keras, Tensorflow, PyTorch, etc
 Experience with one or more Container-ecosystem (Docker, Kubernetes)
 Experience in building orchestration pipeline to convert plain python models into a deployable API/RESTful endpoint.
 Good communication skills and team player attitude.
-Bachelors in Computer Science or related fields",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Bachelors in Computer Science or related fields",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,1,0,0,0
 Machine Learning Engineer,"Description
 
 Unbxd is an AI-driven eCommerce Search Platform that understands shopper intent and connects them to the products they are most likely to buy — across site search, navigation and recommendation purchase journeys.
@@ -506,7 +517,8 @@ You have hands-on experience with some ML frameworks like TensorFlow, PyTorch, K
 You are familiar with Big Data technologies
 
 You have experience working with Solr or other search platforms",3.7,"Unbxd Inc
-3.7",Bengaluru,"Bengaluru, India",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+3.7",Bengaluru,"Bengaluru, India",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,"Unbxd Inc
+",1,9,1,0,0,0
 Applied Scientist,"Amazons Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. We build software to find products not already sold on Amazon and algorithmically add them to the Amazon catalog. Our work involves building Information Retrieval (IR) infrastructure, Machine Learning systems, and distributed compute and storage systems to process data at cloud-scale to extend and enrich the Amazon catalog. We apply the state- of- the-art Web-mining, Cloud Computing and Deep Learning to process millions of products from the web every day and make the data actionable. We constantly stretch the boundaries of Machine Learning to tackle business challenges. If you are customer obsessed, self-driven, tenacious and analytical, you will have fun solving our business problems of unprecedented scale. As an experienced machine learning scientist, you will help research and develop new computer algorithms leveraging both classical and deep learning techniques.
 
 We are looking for ML Scientist to tackle challenging problems in the areas of information retrieval at internet scale using data science. You should have depth and breadth of knowledge in text mining, information retrieval and deep learning. You should also have programming and design skills to manipulate unstructured data and systems that work at internet scale.
@@ -536,7 +548,8 @@ Preferred Qualifications
 · PhDs, specialized in Information Retrieval and Machine Learning.
 · Experience in designing and implementing information retrieval, web mining systems using Deep Learning and Neural Networks.
 · Big thinker that can take broad visions and concepts and develop structured plans, actions and measurable metrics and then execute those plans.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,0,0
 Data Science Specialist / Sr. Data Scientist,"Function : Clustr
 
 Experience : 8-12 yrs
@@ -596,7 +609,8 @@ Keep abreast of the current state-of-the-art in Machine Learning and NLP areas
 Prior experience with start-up environment preferred
 Ready to join Clustr?
 If you fit the bill, email your resume to careers@clustr.co.in with the position name in subject line",4.5,"Clustr
-4.5",Bengaluru,"Bengaluru, India",1 to 50 employees,2013,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+4.5",Bengaluru,"Bengaluru, India",1 to 50 employees,2013,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,"Clustr
+",1,7,1,1,0,1
 Research Engineer - Data Analytics & Artificial Intelligence (Machine Vision),"Research Engineer - Data Analytics & Artificial Intelligence (Machine Vision)
 
 With over 1900 researchers, Corporate Technology (CT) occupies a special position within Siemens' R&D facilities. It functions as an international network of expertise and as a global partner for technology and innovations.
@@ -648,7 +662,8 @@ Company: Siemens Technology and Services Private Limited
 Experience Level: Mid-level Professional
 
 Job Type: Full-time",4.1,"Siemens Healthineers
-4.1",Bengaluru,"Erlangen, Germany",10000+ employees,1847,Company - Public,Healthcare Services & Hospitals,Healthcare,₹500+ billion (INR),"GE Healthcare, Roche"
+4.1",Bengaluru,"Erlangen, Germany",10000+ employees,1847,Company - Public,Healthcare Services & Hospitals,Healthcare,₹500+ billion (INR),"GE Healthcare, Roche","Siemens Healthineers
+",0,173,0,0,0,0
 Research Engineer - Data Analytics & Artificial Intelligence (Machine Vision),"Research Engineer - Data Analytics & Artificial Intelligence (Machine Vision)
 
 With over 1900 researchers, Corporate Technology (CT) occupies a special position within Siemens' R&D facilities. It functions as an international network of expertise and as a global partner for technology and innovations.
@@ -700,7 +715,8 @@ Company: Siemens Technology and Services Private Limited
 Experience Level: Mid-level Professional
 
 Job Type: Full-time",4.0,"Siemens
-4.0",Bengaluru,"Munich, Germany",10000+ employees,1843,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,₹500+ billion (INR),"GE, ABB, Philips"
+4.0",Bengaluru,"Munich, Germany",10000+ employees,1843,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,₹500+ billion (INR),"GE, ABB, Philips","Siemens
+",0,177,0,0,0,0
 Data Scientist-1,"Required Technical Skills
 Good understanding of machine learning (both analytics and engineering).
 Hadoop and big data technologies skills, streaming technology.
@@ -724,7 +740,8 @@ Interested in keeping update with the latest technological developments.
 Comfortable working in an Agile environment.
 Strong verbal and written communication skills.
 Interest in the payments industry.",3.5,"Siemens
-4.0",Bengaluru,"San Jose, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Square, Amazon, Apple"
+4.0",Bengaluru,"San Jose, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Square, Amazon, Apple","Siemens
+",0,22,1,0,0,0
 Principal Data Scientist & Software Development Manager,"Introduction
 As a Data Scientist at IBM, you will help transform our clients data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether its investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live.
 
@@ -797,7 +814,8 @@ For additional information about location requirements, please discuss with the 
 
 Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",3.9,"IBM
-3.9",Bengaluru,"Armonk, NY",10000+ employees,1911,Company - Public,IT Services,Information Technology,₹500+ billion (INR),"Amazon, Accenture, Microsoft"
+3.9",Bengaluru,"Armonk, NY",10000+ employees,1911,Company - Public,IT Services,Information Technology,₹500+ billion (INR),"Amazon, Accenture, Microsoft","IBM
+",0,109,0,1,0,1
 BIE Manager,"Amazon seeks an experienced Business Intelligence Manager to join the RBS (Retail Business Services) team. Our mission is to improve customer shopping experience with Amazon by independently auditing Amazon catalog to identify CX defects and fixing defects at scale. We screen millions ASINs every day. We develop ML models to improve CX.
 Our team of high caliber software developers, applied scientists, data engineers, product managers and Business Intelligence Engineers use rigorous ML and deep learning approaches to ensure that we identify & fix the right catalog defect to ensure the good shopping experience for our customers.
 As a BI Manager you will be leading a team of Business Intelligence Engineers and will play a thought leadership role in our team the team will look to you for advice on data and business issues facing them to create value for our customers. You work very efficiently and routinely deliver the right value. You will have a company-wide view of the BI solutions that you build, and you will consistently think in terms of automating or expanding the results company-wide. You will be working in one of the world's largest and most complex data warehouse environments. You will design, implement and support scalable data solutions to integrate with multi heterogeneous data sources, aggregate and retrieve data in a fast and safe mode, curate data that can be used in reporting, analysis, machine learning models and ad-hoc data requests. You will be exposed to cutting edge AWS big data technologies. You should have excellent business and communication skills to be able to work with business owners and Tech leaders to gather infrastructure requirements, build up data pipelines and data-sets to meet business needs. You stay abreast of emerging technologies, investigating and implementing where appropriate.
@@ -830,7 +848,8 @@ Preferred Qualifications
 · Experience on at least one data visualization tools (e.g. OBIEE, Tableau, QlikView)
 · Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with both business and technical teams
 ·",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,1,1
 Data Scientist/Senior Data Scientist - Deep Learning,"Danaher Corporation
 Danaher is a global science and technology innovator with more than 59,000 associates committed to helping our customers solve complex challenges and improve quality of life around the world. Our world class brands have unparalleled leadership positions in some of the most demanding and attractive industries and our technologies address a broad range of societal needs:
 Protecting the global water supply and ensuring environmental stewardship
@@ -887,7 +906,7 @@ Desired:
 7+ years building operations analytics models, including demand forecasting, inventory optimization in manufacturing or related industries.
 7+ years building IoT analytics models, including failure diagnosis and failure prediction
 7+ years executing customer advanced analytics, including marketing mix analysis, segmentation, retention modeling, targeted marketing, basket analysis, next product recommendation, and so forth.
-5+ years executing data science in the fields of life sciences, medical diagnosis, biostatistics, and so forth.",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+5+ years executing data science in the fields of life sciences, medical diagnosis, biostatistics, and so forth.",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,1,1,1,0
 Data Scientist/Senior Data Scientist - Deep Learning,"Danaher Corporation
 Danaher is a global science and technology innovator with more than 59,000 associates committed to helping our customers solve complex challenges and improve quality of life around the world. Our world class brands have unparalleled leadership positions in some of the most demanding and attractive industries and our technologies address a broad range of societal needs:
 Protecting the global water supply and ensuring environmental stewardship
@@ -944,7 +963,7 @@ Desired:
 7+ years building operations analytics models, including demand forecasting, inventory optimization in manufacturing or related industries.
 7+ years building IoT analytics models, including failure diagnosis and failure prediction
 7+ years executing customer advanced analytics, including marketing mix analysis, segmentation, retention modeling, targeted marketing, basket analysis, next product recommendation, and so forth.
-5+ years executing data science in the fields of life sciences, medical diagnosis, biostatistics, and so forth.",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+5+ years executing data science in the fields of life sciences, medical diagnosis, biostatistics, and so forth.",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,1,1,1,0
 Principal Data Scientist - Product Development (Global AI Accelerator,"Date: Mar 30, 2020
 
 Ericsson Overview:
@@ -1037,7 +1056,8 @@ This policy applies to all terms and conditions of employment, including recruit
 Ericsson expressly prohibits any form of workplace harassment based on race, color, religion, sex, sexual orientation, marital status, pregnancy, parental status, national origin, ethnic background, age, disability, political opinion, social status, veteran status, union membership or genetic information.
 
 Primary country and city: India (IN) || || Bangalore || R&D",3.9,"Ericsson-Worldwide
-3.9",Bengaluru,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,₹500+ billion (INR),"Huawei Technologies, IBM, Cisco Systems"
+3.9",Bengaluru,"Stockholm, Sweden",10000+ employees,1876,Company - Public,Telecommunications Services,Telecommunications,₹500+ billion (INR),"Huawei Technologies, IBM, Cisco Systems","Ericsson-Worldwide
+",0,144,1,1,1,0
 Technical Lead - Machine Learning,"The Company
 
 We are a young, fast-growing AI company shaking up how work gets done across the enterprise. Every day, we help clients identify opportunities for automation, and then use a variety of AI and advanced automation techniques to rapidly model manual work in the form of code. Our impact has already been felt across some of the most reputable Fortune 500 companies, who are consequently seeing major gains in efficiency, client satisfaction, and overall savings. It’s an exciting experience to watch companies transform themselves rapidly with Soroco!
@@ -1111,7 +1131,8 @@ Bonus Requirements:
 ·Experience in CI/ CD pipelines and DevOps
 
 ·Experience in automated and manual testing",3.0,"Soroco
-3.0",Bengaluru,"Boston, MA",51 to 200 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+3.0",Bengaluru,"Boston, MA",51 to 200 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,"Soroco
+",0,6,1,0,1,0
 Software Development Manager,"Software Development Manager - ML, Selection Monitoring
 
 Amazons Selection Monitoring team has an opportunity for you. The Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. In order to drive expansion of the Amazon catalog, we use web mining and cluster-computing technologies like MapReduce, Spark and Hive to process billions of products and algorithmically find products not already sold on Amazon. We work with structured and unstructured content such as text and images and apply machine-learning algorithms, such as classification, natural language and image processing.
@@ -1140,7 +1161,8 @@ Successful candidates will have the following:
 · Experience in designing and implementing information retrieval and web mining systems
 · Expertise with data science, machine learning algorithms, natural language processing, and computer vision
 - Experience with MapReduce, Spark, Hive and Scala.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,0,1,0,0
 DATA SCIENTIST,"Employment: Full time.
 
 Role: Data Scientist
@@ -1187,7 +1209,7 @@ Experience in cybersecurity, network data
 Knowledge of networking concepts and devices (Firewalls, Routers, Switches,
 and Load Balancers)
 Knowledge of network and web related protocols (such as TCP/IP, UDP, IPSEC,
-HTTP, HTTPS, DNS, SSH, routing protocols)",-1,Inference Labs,Bengaluru,"Bengaluru, India",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+HTTP, HTTPS, DNS, SSH, routing protocols)",-1.0,Inference Labs,Bengaluru,"Bengaluru, India",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,Inference Labs,1,-1,1,0,0,1
 "Data Scientist, Data Engineer, Deep Learning,","Opening for Data Scientist At Bangalore (Hebbal )
 
 Experience- Min 2 Years
@@ -1206,7 +1228,7 @@ Strong written and oral skills (in English)
 Demonstrated participation on platforms like Kaggle is a plus
 Prefer great appreciation or expertise in Security products such as End point detection, protection and response, Managed detection and response etc
 Kindly revert your Opinion
-00-6.00 Years",-1,TechPro HR Consultancy,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+00-6.00 Years",-1.0,TechPro HR Consultancy,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,TechPro HR Consultancy,0,-1,1,0,0,0
 Staff Machine Learning Engineer - Customer Engagement,"Twilio seeks a Staff Machine Learning Engineer to be a key leader in defining a new product offering at Twilio in the customer engagement space. The person in this role will be critical in shaping Twilio's data and intelligence strategy, which will empower our customers to create highly personalized communications and experiences for their contacts. Come be part of a team that's building a set of ML-driven APIs that deliver intelligent audience and personalization recommendations.
 
 Who?
@@ -1246,7 +1268,8 @@ This position will be located in our office in Bangalore, India. You will enjoy 
 About us:
 
 Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world's communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world's most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world's largest organizations — to reinvent how companies engage with their customers.",3.9,"Twilio
-3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1
+3.9",Bengaluru,"San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Internet,Information Technology,₹100 to ₹500 billion (INR),-1,"Twilio
+",0,12,1,1,1,1
 Staff Research Scientist,"Company Description
 
 FireEye is the leader in intelligence-led security-as-a-service. Working as a seamless, scalable extension of customer security operations, FireEye offers a single platform that blends innovative security technologies, nation-state grade threat intelligence, and world-renowned Mandiant® consulting. With this approach, FireEye eliminates the complexity and burden of cyber security for organizations struggling to prepare for, prevent, and respond to cyber attacks. FireEye has over 7,500 customers across 67 countries, including more than 50 percent of the Forbes Global 2000.
@@ -1277,7 +1300,8 @@ Experience working in fast-paced development environments
 Excellent written & verbal communication skills
 Excellent inter-personal and teamwork skills
 Self-driven, proactive, hardworking, team-player with a good sense of humor",3.2,"FireEye, Inc.
-3.2",Bengaluru,"Milpitas, CA",1001 to 5000 employees,2004,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Palo Alto Networks, Tanium"
+3.2",Bengaluru,"Milpitas, CA",1001 to 5000 employees,2004,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Palo Alto Networks, Tanium","FireEye, Inc.
+",0,16,1,0,0,1
 Data Scientist / Senior Data Scientist,"Position Summary
 
 NextNav is launching a groundbreaking location service for smartphones, IOT, and other devices – an ability to determine floor level altitude service across the country – a capability that does not exist at scale anywhere today! No longer constrained by legacy “flat earth” technologies, applications and users will be able to determine floor-level altitude, which is essential for navigation, user context and relevancy and many other applications that are used indoors.
@@ -1323,7 +1347,8 @@ Preferred:
 ·Experience with driving projects across all stages, including ideation, testing, and marketing.
 
 ·Track record of source code contribution to open source projects.",3.2,"NextNav
-3.2",Bengaluru,"Sunnyvale, CA",51 to 200 employees,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1
+3.2",Bengaluru,"Sunnyvale, CA",51 to 200 employees,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1,"NextNav
+",0,13,1,0,0,0
 Applied Scientist I,"Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
 
 The Moderation and Relevance System (MARS) team, based in Bangalore, is responsible for ensuring that ads are relevant and is of good quality, leading to higher conversion for the sellers and providing a great experience for the customers. We deal with one of the worlds largest product catalog, handle billions of requests a day with plans to grow it by order of magnitude and use automated systems to validate tens of millions of offers submitted by thousands of merchants in multiple countries and languages. We are looking for a highly motivated, top notch applied scientist to build machine learning models at scale to enforce our policy guidelines. A successful candidate will have demonstrated experience in at least some of the following areas: NLP, Image Recognition and Classification, Video Recognition and Classification, Generative Models, Reinforcement Learning, Active Learning, Weak Supervision
@@ -1363,7 +1388,8 @@ Preferred Qualifications
 · Great verbal and written communication and presentation skills, ability to convey rigorous mathematical concepts and considerations to non-experts
 · Proven track record in leading, mentoring and growing teams of scientists (teams of 3 or more scientists)
 Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,0,0
 Data Scientist / Data Analyst,"This position will be responsible for Finance Analytics product offerings thereby generate Business Performance Improvement opportunities for the Stake Holders. Our Client is looking for an experienced Senior Data Scientist to join our talented engineering team. As our data guru, you’ll be responsible for analyzing the large data set and making recommendations that will impact major business decisions. They are looking for a proven technical leader that can excel in a fun, fast-moving startup environment and help them elevate their customer experience.
 
 Job Responsibilities
@@ -1417,7 +1443,8 @@ Education level
 Bachelor’s Degree in Computer Science
 Career level
 Experienced",4.8,"Bloom Consulting Services
-4.8",Bengaluru,"Nagpur, India",1 to 50 employees,2015,Company - Private,IT Services,Information Technology,₹10 to ₹50 million (INR),-1
+4.8",Bengaluru,"Nagpur, India",1 to 50 employees,2015,Company - Private,IT Services,Information Technology,₹10 to ₹50 million (INR),-1,"Bloom Consulting Services
+",0,5,1,1,0,1
 Tech Lead - Data Scientist (NLP),"AI team at Ultria is working on state of the art Natural Language Processing technologies including document structure detection, domain specific neural embeddings, deep neural network architectures for extraction and classification tasks etc. We are looking for a passionate data scientist to develop new statistical models for delivering high-quality NLP products.
 
 RESPONSIBILITIES:
@@ -1459,7 +1486,8 @@ In-depth industry and domain expertise with a robust implementation methodology
 Ability to ensure semantic and structural data integrity and quality
 End-to-end solution for Data Governance renowned by leading market Analysts
 To know more, you can visit our website: www.ultria.com",4.2,"Ultria
-4.2",Bengaluru,"Princeton, NJ",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+4.2",Bengaluru,"Princeton, NJ",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Ultria
+",0,-1,1,1,0,1
 "Principal Engineer - Computer vision, opencv,Tensorflow","Description:
 
 Join us as a PRINCIPAL ENGINEER Computer Vision
@@ -1499,7 +1527,8 @@ Experience in data related technologies and open source frameworks preferred.
 Experience in real-time video analytics pipeline.
 Familiar with software development practices/pipelines (DevOps - kubernetes, docker containers, CI/CD tools).
 Qualifications:",3.8,"Target
-3.8",Bengaluru,"Minneapolis, MN",10000+ employees,1962,Company - Public,General Merchandise & Superstores,Retail,₹500+ billion (INR),-1
+3.8",Bengaluru,"Minneapolis, MN",10000+ employees,1962,Company - Public,General Merchandise & Superstores,Retail,₹500+ billion (INR),-1,"Target
+",0,58,1,0,1,1
 Applied Scientist II,"RBS Tech is committed to support business growth across WW Retail through standardization, simplification and automation. We are developing an automated solution ACE to fix catalog defects. ACE uses Machine Learning/Deep Learning to fix attribute defects identified by Sherlock (auto audit platform) across Amazons selection that will improve customer shopping experiences. The defects are reviewed for validation and fixed, in the process helping the machine to learn.
 Last year the team worked on discoverability challenges customers are facing on Amazon properties by backfilling hidden attributes by applying various deep learning techniques and an ensemble of classifiers. This year, we are working on highly ambiguous use cases like size variations problems, expanding the scope of discoverability use cases. All these use cases are ideal candidates to apply various Deep learning techniques.
 We are hiring applied scientists who can creatively solve these use cases.
@@ -1519,7 +1548,8 @@ Preferred Qualifications
 · PhDs, specialized in Information Retrieval and Machine Learning.
 · Experience in designing and implementing information retrieval, web mining systems using Deep Learning and Neural Networks.
 · Big thinker that can take broad visions and concepts and develop structured plans, actions and measurable metrics and then execute those plans.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,0,0
 "Data Scientist (Only from IIT, NIT,IIIT,IIM,VIT,BIT)","About Zycus :
 
 Headquartered in Princeton, U.S. in 1998, Zycus has grown every day to be established as an organization which now is a leading global provider of complete Source-to-Pay suite of procurement performance solutions.
@@ -1601,7 +1631,8 @@ Communicate analytic solutions to stakeholders and implement improvements as nee
 Benefits
 
 Along with a competitive compensation structure, Zycus believes in an open culture learning environment, where everyone gets a chance to share their ideas and deliver par excellence. Here's a sneak peek to our life at Zycus.",3.4,"Zycus
-3.4",Bengaluru,"Princeton, NJ",501 to 1000 employees,1998,Company - Private,Computer Hardware & Software,Information Technology,₹500 million to ₹1 billion (INR),"SAP Ariba, GEP, Coupa Software Inc"
+3.4",Bengaluru,"Princeton, NJ",501 to 1000 employees,1998,Company - Private,Computer Hardware & Software,Information Technology,₹500 million to ₹1 billion (INR),"SAP Ariba, GEP, Coupa Software Inc","Zycus
+",0,22,1,1,0,1
 "Statistician, 2","About Epsilon:
 
 Positioned at Publicis Groupe's core, Epsilon is a leader in interaction management, empowering brands to transform ordinary customer experiences into meaningful, human experiences. Our connected suite of products and services combine leading-edge identity management, industrial strength data and technology expertise with big brand acumen gained over five decades working with the industry's top brands. Our human-powered, data-led marketing delivers unmatched depth, breadth and scale to help brands turn meaningful human interactions into exceptional business outcomes. For more information, visit www.epsilon.com. Follow us on Twitter at @EpsilonMktg.
@@ -1656,7 +1687,8 @@ DESIRABLE QUALIFICATIONS:
 • Publications or presentation in recognized Machine Learning, Deep Learning and Data Mining journals/conferences will be an added advantage
 
 • Experience with AWS technologies like Redshift, S3, EC2, Data Pipeline, & EMR will be an added advantage, working knowledge of Hadoop, Map-reduce and other big data technologies",3.8,"Epsilon
-3.8",Bengaluru,"Irving, TX",5001 to 10000 employees,1969,Subsidiary or Business Segment,Advertising & Marketing,Business Services,₹100 to ₹500 billion (INR),Merkle
+3.8",Bengaluru,"Irving, TX",5001 to 10000 employees,1969,Subsidiary or Business Segment,Advertising & Marketing,Business Services,₹100 to ₹500 billion (INR),Merkle,"Epsilon
+",0,51,1,1,1,0
 Machine Learning Fellowship Bengaluru- Sep,"Data Science is not knowledge to be acquired but rather an art that must be learned through practice. The number one qualification employers look for when hiring a data science candidate is previous experience. Our fellowship gives aspiring data scientists the chance to hone their skills by building real-world machine learning applications.
 build scalable machine learning models with agile software development methodology
 full-time for 4 months mentoring by seasoned data scientists pair program with other fellows and mentors
@@ -1667,7 +1699,8 @@ work on enhancement to our platform.ai
 Fellows from previous cohorts are now in data science roles at Facebook, Uber Advanced Technologies Center, Google Brain, Sentient Technologies, Yelp, Orange, etc.
 
 Please apply at www.fellowship.ai/apply",3.2,"Fellowship.AI
-3.2",Bengaluru,"Austin, TX",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.2",Bengaluru,"Austin, TX",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Fellowship.AI
+",0,-1,0,0,0,0
 Data Scientist - Machine Learning/Artificial Intelligence/ Python -BFSI,"Experience 4 - 10 Years
 Salary 8 LPA - 16 LPA
 Job Location Bengaluru
@@ -1703,7 +1736,8 @@ Excellent verbal and written communications skills; Strong interpersonal skills
 Managing available resources such as cloud services, data
 Good to Have :
 Experience with System Development Life Cycle methodologies (CMMI)",4.0,"Careerera
-4.0",Bengaluru,"Wayland, MA",501 to 1000 employees,-1,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1
+4.0",Bengaluru,"Wayland, MA",501 to 1000 employees,-1,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,-1,"Careerera
+",0,-1,1,0,1,1
 Data Engineering Manager,"Amazon seeks an experienced Data Engineer to join the RBS (Retail Business Services) team. Our mission is to improve customer shopping experience with Amazon by independently auditing Amazon catalog to identify CX defects and fixing defects at scale. We screen millions ASINs every day. We develop ML models to improve CX.
 
 Our team of high caliber software developers, applied scientists, data engineers and product managers use rigorous ML and deep learning approaches to ensure that we identify & fix the right catalog defect to ensure the good shopping experience for our customers.
@@ -1746,7 +1780,8 @@ Preferred Qualifications
 · Experience providing technical leadership and mentor other engineers for data engineering best practices
 · Advanced knowledge and expertise with Data modelling skills, Advanced SQL with Oracle, MySQL, and Columnar Databases
 · Demonstrated industry leadership in the fields of Database and/or Data Warehousing, Data Sciences and Big Data processing",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,1,1
 Machine Learning Engineer (Data Science Engineer),"We are looking for Machine Learning Engineers/ Data Scientists to join our talented software team in building high performing, low latency, enterprise grade and cloud-based product suite. You will play a key role in building our innovative product pipeline. Using your deep understanding of modern web architectures and Cloud platforms, programming expertise and operational experience, you will help building successful SaaS products at Pype.
 
 Please join our ML team and work together in breaking barriers and bringing AI to the construction software industry. Applicants should have a strong computer science background with good analytical, problem solving skills apart from good foundations in Machine learning with bent towards NLP/Image Understanding. Working proficiency with Python is mandatory. Knowledge of distributed systems like Hadoop/Spark is a plus.
@@ -1766,7 +1801,8 @@ Working knowledge and inclination towards Statistical pattern recognition, Machi
 Experience with Python/Scikit-Learn/TensorFlow/OpenCV
 Ability to work with a team in an Agile environment
 To apply send your resume to hr-india@pype.io",4.1,"Pype
-4.1",Bengaluru,"Herndon, VA",1 to 50 employees,2013,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+4.1",Bengaluru,"Herndon, VA",1 to 50 employees,2013,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,"Pype
+",0,7,1,1,0,0
 Data Scientist,"Job Summary
 Job Title: AI and ML or Computer Vision
 Location: Bangalore
@@ -1795,7 +1831,8 @@ Flexible work hours
 Other
 Industry:
 Software Development",4.0,"Lincode Labs
-4.0",Bengaluru,"Menlo Park, CA",1 to 50 employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹10 to ₹50 million (INR),-1
+4.0",Bengaluru,"Menlo Park, CA",1 to 50 employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹10 to ₹50 million (INR),-1,"Lincode Labs
+",0,3,1,0,0,1
 Data Scientist,"Locations: Bangalore, Data Science & Analytics, Mountain View, New Jersey, New York
 
 Alphonso is a TV data company and the market leader in providing brands and agencies with verified TV audiences across all screens. Alphonso’s TV data platform processes billions of data points every day about TV content and ad viewership, in the US and internationally.
@@ -1816,7 +1853,8 @@ MS/PhD in Computer Science, Statistics, Engineering, or another relevant quantit
 Experience with machine learning algorithms and/or statistical modeling
 Proficiency in Python/R/Scala or other programming languages
 Familiarity with Big data technologies like Hadoop, Map/Reduce, Spark, Hive etc. is a plus",4.1,"Alphonso
-4.1",Bengaluru,"Mountain View, CA",51 to 200 employees,2012,Company - Private,TV Broadcasting & Cable Networks,Media,Unknown / Non-Applicable,-1
+4.1",Bengaluru,"Mountain View, CA",51 to 200 employees,2012,Company - Private,TV Broadcasting & Cable Networks,Media,Unknown / Non-Applicable,-1,"Alphonso
+",0,8,1,1,0,0
 Head of Product - Data,"About the Role:
 Gojek is looking for an experienced, data-driven Head of Product to lead the Product Management group within our Data organisation. As the Head of Product for Data, you will own the innovation and execution of product roadmaps for our entire data platform. You will have a pivotal role in enabling internal use cases for our data platforms, as well as external use cases on the Gojek platform, to ensure that we stay true to our objective of being the most preferred SuperApp for our customers. You will manage a group of Senior Product Managers and support cross-functional partners in driving the conceptual and technical development of data products. As a key member of the Product Management leadership team, you will also help shape the strategic direction of the Product Management function at Gojek.
 
@@ -1859,7 +1897,8 @@ Gojek is a Super App: one app with over 20 services including food delivery, com
 Gojek is Indonesia’s first and fastest growing unicorn building an on-demand empire. Our total of 2,000,000 driver-partners collectively travel 16.5 million KM daily – making us Indonesia’s de-facto transportation choice.
 
 Gojek is a verb! Gojek is a way of life!",4.1,"GO-JEK
-4.1",Bengaluru,"Jakarta, Indonesia",1001 to 5000 employees,2010,Company - Private,Transportation Management,Transportation & Logistics,Unknown / Non-Applicable,-1
+4.1",Bengaluru,"Jakarta, Indonesia",1001 to 5000 employees,2010,Company - Private,Transportation Management,Transportation & Logistics,Unknown / Non-Applicable,-1,"GO-JEK
+",0,10,0,0,0,0
 AWS Data Lab Solution Architect,"Are you a data and analytics specialist? Do you have deep expertise in AWS services for managing data at speed and scale? Do you think big about how data can change the world, and love building software? Would you like a career that gives you opportunities to help customers and partners use cloud computing services to build new solutions, faster, and at lower cost?
 
 
@@ -1900,7 +1939,8 @@ Preferred Qualifications
 · Working knowledge of modern software development practices and technologies such as agile methodologies and DevOps.
 
 Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,0,1,1,0
 Data Scientist,"As a Data Scientist at Noodle.ai, you will collaborate with our Enterprise Services team,Software Engineers, Designers, and industry-specific experts from our customers. You willvbuild a deep understanding of the business problems our customers are tackling and then develop, test, and deploy advanced machine learning algorithms. As we grow, you will also develop reusable IP to help us move faster, dive deeper, and work more efficiently by generalizing the algorithms, methodologies, and supporting infrastructure that you build. As one of the early hires to join the Noodle.ai team, you will have a significant impact on the future of Enterprise Artificial Intelligence.
 
 Job responsibilities:
@@ -1932,7 +1972,8 @@ Knowledge of data visualization tools - ggplot, d3.js and Matplottlib, and Table
 Strong problem solving skills with an emphasis on product development
 Focus on delivering value and building lasting relationships through collaboration in an open and respectful working style
 Passion for learning and a desire to grow",4.5,"Noodle.ai
-4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1
+4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1,"Noodle.ai
+",0,4,1,1,0,0
 Member of Technical Staff- UI,"Qubole is a simple, open, and secure Data Lake Platform for machine learning, streaming, and ad-hoc analytics. Our platform provides end-to-end services that reduce the time and effort required to run Data pipelines, Streaming Analytics, and Machine Learning workloads on any cloud. No other platform offers the openness and data workload flexibility of Qubole while lowering cloud data lake costs by over 50 per cent. Qubole customers process nearly an exabyte of data every month. Qubole investors include Charles River, Institutional Venture Partners, Lightspeed, Norwest, Harmony and Singtel Innov8.
 
 UI engineers in Qubole are responsible for the rich web application hosted at api.qubole.com. We build user interfaces that cater to a wide variety of personas such as Data Analysts, ETL Engineers, and Data Scientists. We are looking for engineers to craft the next generation of Qubole’s user interface.
@@ -1970,7 +2011,8 @@ Transparency and Teamwork: Complete transparency in all our thoughts and actions
 Who Thrives: If you are a self-starter and thrive on complexity and independence and truly understand and live the tenets of humility, hunger and honesty and you will love Qubole.
 
 Qubole is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Qubole does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Qubole also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.",4.5,"Qubole
-4.5",Bengaluru,"Santa Clara, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+4.5",Bengaluru,"Santa Clara, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,"Qubole
+",0,9,0,0,1,0
 SENIOR DATA SCIENTIST,"Data Scientist
 
 About Happiest Minds Technologies
@@ -1997,7 +2039,8 @@ Experience with relational databases and SQL is good to have
 Relevant experience in Big Data platforms like Hadoop eco-system
 Come up with innovative algorithms and solutions
 Staffing Type: Permanent",4.1,"Happiest Minds Technologies
-4.1",Bengaluru,"Bengaluru, India",1001 to 5000 employees,2011,Company - Private,IT Services,Information Technology,₹5 to ₹10 billion (INR),-1
+4.1",Bengaluru,"Bengaluru, India",1001 to 5000 employees,2011,Company - Private,IT Services,Information Technology,₹5 to ₹10 billion (INR),-1,"Happiest Minds Technologies
+",1,9,1,0,0,0
 Data Scientist,"Implement and support data discovery and predictive analytics models by analyzing business data.
 
 Qualifications:
@@ -2007,7 +2050,7 @@ Qualifications:
 Working experience with java or python
 Database experience with MySQL or NoSQL database solutions
 Ability to design the models to work on small to very large data sets
-If interested, please send the latest CV to data@scalein.com or contact using our contact page.",-1,ScaleIn,Bengaluru,"San Jose, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+If interested, please send the latest CV to data@scalein.com or contact using our contact page.",-1.0,ScaleIn,Bengaluru,"San Jose, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,ScaleIn,0,-1,1,0,0,0
 Senior Data Scientist,"Data Scientist / Sr. Data scientist
 
 At Razorpay, we rely on insightful data to power our systems and solutions. We’re seeking experienced data scientists to deliver those insights to us on a daily basis. Our ideal team member will have the mathematical and statistical expertise you’d expect, along with natural curiosity and creative mind that’s not so easy to find. As you mine, interpret, and clean the data, we will rely on you to ask questions, connect the dots, and uncover opportunities that lie hidden with the ultimate goal of realizing the data’s full potential. You are expected to bring in a strong experience of using a variety of data mining methods and tools in building models and running simulations. You must have a proven ability to drive business results with data-based insights and more importantly you should be comfortable working with a wide range of stakeholders and functional teams. You will be instrumental in helping the business continue its evolution into an analytical and data-driven culture.
@@ -2037,7 +2080,8 @@ Experience with data visualisation tools such as D3.js, GGplot.
 Proficiency in using query languages such as SQL.
 Experience with NoSQL databases such as MongoDB, Cassandra, HBase is desired.
 Experience with distributed data/computing tools like Map/Reduce, Hadoop, Hive, Spark is a big plus.",4.1,"Razorpay
-4.1",Bengaluru,"Bengaluru, India",501 to 1000 employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+4.1",Bengaluru,"Bengaluru, India",501 to 1000 employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,"Razorpay
+",1,6,1,1,0,1
 Sr. Technical Program Manager - CTPS,"The Transaction Risk Management Systems (TRMS) division at Amazon is looking for a passionate, results-oriented, inventive technical program manager to take the abuse prevention program to next level. The TRMS division is responsible for the prevention of fraudulent transactions and malicious behavior on Amazon and delivers cost savings direct to Amazon's bottom line.
 
 Amazon.com's Risk Management Team has a worldwide reputation as the #1 in eCommerce Fraud Prevention. Trust and Safety of our customers comes first. Always. We thrive on maintaining the highest bar of customer experience while we maintain those tenets. Do you want to join a team that uses cutting edge technology including machine learning and statistical modeling techniques, cloud computing services and highly available and scalable distributed systems that supports hundreds of millions of transactions across the globe?
@@ -2090,7 +2134,8 @@ Preferred Qualifications
 • Design and coding skills in some language on some OS platform
 • Good debugging and troubleshooting skills, with an enthusiastic attitude to support and resolve customer problems
 • Working experience in at least 1 modern programming language (Java, C#, C/C++, Perl, Ruby, Python, etc).",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,0,1
 Data Engineer,"Overview
 
 
@@ -2143,7 +2188,8 @@ Experience in open-source development and contribution to open-source technology
 If you’re deeply interested in working on Data Engineer post at Paisool and have relevant skills and experience, please consider applying even if your background doesn’t perfectly match our ideal credentials. If you have different experiences and skills from the ones listed above but have something else to contribute, please contact us
 
 hiring@inbe.com",5.0,"Paisool
-5.0",Bengaluru,"Bengaluru, India",1 to 50 employees,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+5.0",Bengaluru,"Bengaluru, India",1 to 50 employees,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,"Paisool
+",1,8,1,0,0,1
 Sr Data Scientist,"Description
 
 SHIFT: Day Job
@@ -2196,7 +2242,8 @@ Hands-on experience with horizontally scalable data stores such as Hadoop and ot
 Our vision is to provide an immersive AI experience on Oracle Cloud. Aggressive as it might sound, our growth journey is fueled by highly energetic, technology savvy engineers like YOU who are looking to grow with us to meet the demands of building a powerful next-generation platform. Are you ready to do something big?
 
 ]]>",3.6,"Oracle
-3.6",Bengaluru,"Redwood City, CA",10000+ employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,₹500+ billion (INR),"SAP, Salesforce, Microsoft"
+3.6",Bengaluru,"Redwood City, CA",10000+ employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,₹500+ billion (INR),"SAP, Salesforce, Microsoft","Oracle
+",0,43,1,1,1,1
 Software Development Manager - Amazon Search,"Amazon Search is looking for an outstanding Business Intelligence Manager to help improve Amazon Search for our worldwide customers by delivering analytical insights to monitor & improve Search, a toolset enabling others to analyze, and evaluations of search experiments.
 
 This leader will lead a team of engineers to build needed software systems, business intelligence engineers for an in-depth analysis, and technical product/program managers to run this program end to end.
@@ -2251,7 +2298,8 @@ Preferred Qualifications
 · Experience with working with leadership and stakeholders in the USA
 · Experience with developing on AWS
 · Experience with Search and eCommerce domain",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,1,1
 Technical Lead - Data and Machine Learning Engineering,"Company Overview Danaher Corporation
 Danaher is a global science and technology innovator with more than 59,000 associates committed to helping our customers solve complex challenges and improve quality of life around the world. Our world class brands have unparalleled leadership positions in some of the most demanding and attractive industries and our technologies address a broad range of societal needs:
 Protecting the global water supply and ensuring environmental stewardship
@@ -2299,7 +2347,7 @@ Ability to nurture/mentor others in the team.
 A can-do attitude in anticipating and resolving problems to help your team to achieve its goals.
 Excellent communication skills with direct team members as well as external teams and stakeholders.
 Must have experience in Agile development methods.
-Willingness to travel (< 20%)",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Willingness to travel (< 20%)",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,1,1,1,1
 Data Scientist DA4AD,"Responsibilities
 Selecting features, building and optimizing classifiers using machine learning and Deep Learning techniques
 Data mining using state-of-the-art methods
@@ -2335,7 +2383,8 @@ Proficiency in using query languages such as SQL
 Good applied statistics skills, such as distributions, statistical testing, regression, etc.
 Good scripting and programming skills
 Data-oriented personality",4.2,"Daimler
-4.2",Bengaluru,"Stuttgart, Germany",10000+ employees,1886,Company - Public,Transportation Equipment Manufacturing,Manufacturing,₹500+ billion (INR),"Audi, Porsche, BMW"
+4.2",Bengaluru,"Stuttgart, Germany",10000+ employees,1886,Company - Public,Transportation Equipment Manufacturing,Manufacturing,₹500+ billion (INR),"Audi, Porsche, BMW","Daimler
+",0,134,1,0,0,1
 Data Scientist DA4AD,"Responsibilities
 Selecting features, building and optimizing classifiers using machine learning and Deep Learning techniques
 Data mining using state-of-the-art methods
@@ -2371,7 +2420,8 @@ Proficiency in using query languages such as SQL
 Good applied statistics skills, such as distributions, statistical testing, regression, etc.
 Good scripting and programming skills
 Data-oriented personality",3.5,"Mercedes-Benz Research and Development India Private Limited
-3.5",Bengaluru,"Chakan, India",1001 to 5000 employees,1996,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),"Volkswagen, Tata Motors"
+3.5",Bengaluru,"Chakan, India",1001 to 5000 employees,1996,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),"Volkswagen, Tata Motors","Mercedes-Benz Research and Development India Private Limited
+",0,24,1,0,0,1
 Data Engineer,"Summary:
 
 You have experience with client projects and in handling vast amounts of data working on database design and development, data integration and ingestion, designing ETL architectures using a variety of ETL tools and techniques. You are someone with a drive to implement the best possible solutions for clients and work closely with a highly skilled Analytics team. Play a key role on projects from a data engineering perspective, working with our Architects and clients to model the data landscape, obtain data extracts and define secure data exchange approaches.
@@ -2397,7 +2447,8 @@ Excel in team collaboration and working with others from diverse skill-sets and 
 Cervello is a dynamic technology company that is focused on business analytics and planning. We take an innovative approach to making complex solutions simple so our clients can focus on running their businesses. Our services and applications enable our clients to gain the benefits of a world-class analytics and planning capability without the headaches.
 
 Powered by JazzHR",4.1,"Cervello Inc
-4.1",Bengaluru,"Boston, MA",51 to 200 employees,2009,Company - Private,IT Services,Information Technology,₹1 to ₹5 billion (INR),-1
+4.1",Bengaluru,"Boston, MA",51 to 200 employees,2009,Company - Private,IT Services,Information Technology,₹1 to ₹5 billion (INR),-1,"Cervello Inc
+",0,11,1,1,1,1
 Data Scientist,"Experience: 2-5 Years
 
 Job Summary
@@ -2431,7 +2482,8 @@ Passion for problem-solving, developing creative solutions, and continuous learn
 2+ years of ML/ Data science Experience
 Good to have: Having worked on connected device. Having Idea on Clustering etc
 Preferred : Deep Learning with Pytorch or TensorFLow Location: Bangalore",4.0,"Careator Technologies
-4.0",Bengaluru,"Hyderabad, India",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+4.0",Bengaluru,"Hyderabad, India",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Careator Technologies
+",0,-1,1,0,0,0
 Senior Data Scientist- AI,"Description:
 Background:
 Lymbyc is the first and currently the only player, in the predictive engine-based self-service analytics product space for end business users. We have created the world’s first data scientist, Leni, capable of understanding plain English queries from user, and autonomously being able to take decisions ranging from data selection to algorithm selection and finally visualisation and narratives, without any human intervention. And now we are embarking on bringing explainable component to our AI based solutions, to make the business decisions simpler, easier and adaptable to larger stakeholders.
@@ -2467,7 +2519,8 @@ Language – Natural Language Processing, machine translation, emotion detection
 Vision – computer vision, object recognition/tracking, face/gender/age/emotion recognition, OCR/handwriting recognition
 Knowledge and experience in some of the key AI platforms will be important, e.g. IBM Watson, Microsoft Azure, Google Api.Ai, Facebook Wit.Ai, Chatbots using Microsoft Bot Framework
 Knowledge and experience of key machine learning and deep learning framework, e.g. Keras, TensorFlow, Caffe, CNTK, Jiraffe, MXNet and PyTorch commercial technologies/platforms, etc",3.5,"Lymbyc Solutions
-3.5",Bengaluru,"Bengaluru, India",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.5",Bengaluru,"Bengaluru, India",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Lymbyc Solutions
+",1,-1,1,1,0,1
 Sr. Business Intelligence Engineer,"Amazon Indias Supply Chain Analytics team is looking for talented Sr. Business Intelligence Engineer (Sr. BIE), who enjoys the challenge of diving into complex business problems, providing data driven insights, and making recommendations that directly impact business. As a Sr. BIE you will use broad technical skills to build analytics and reporting capabilities that enable the optimization of our fulfillment network. The ideal candidate is a highly analytical, critical thinker with advanced problem solving, data mining, and data engineering or software development skills. They will enjoy working with research scientists, program managers, product managers, data engineers, and software developers to drive decisions across Amazons retail and operations teams. Successful members of this team are customer obsessed, flexible, and collaborative team players who enjoying working across functions and organizations to solve problems and get results. They thrive in ambiguity, ask hard questions, and build scalable solutions that provide critical business insights necessary to influence decision making across organizations. They find timely answers buried in large data sets and complex systems, identify root causes, and are obsessed with generating business insights. This position requires superior analytical thinkers, able to quickly approach large ambiguous problems and apply technical and engineering expertise to rapidly prototype and deliver solutions. The scale is massive; as is the opportunity!
 In this role, you will be asked to:
 · Perform simultaneous large, complex, and business critical analyses that serve major parts of the business.
@@ -2514,7 +2567,8 @@ Preferred Qualifications
 · Familiarity with supply chain management concepts - planning, forecasting, optimization, and logistics - gained through work experience or graduate level education
 · Strong understanding of BI technologies and their application including database warehousing and dashboarding
 · Experience communicating with senior management (Senior leaders/decision makers) as well as with colleagues from computer science, operations research, and business backgrounds.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,0,1
 Data Scientist,"What you will get to do:
 As a Data Scientist, your role will encompass
 You will have complete ownership of the data science roadmap
@@ -2563,7 +2617,8 @@ work: 8 years (Required)
 total work: 10 years (Required)
 Education:
 Bachelor's (Required)",4.2,"Multi Recruit
-4.2",Bengaluru,"Bengaluru, India",1 to 50 employees,2013,Company - Private,Staffing & Outsourcing,Business Services,₹10 to ₹50 billion (INR),-1
+4.2",Bengaluru,"Bengaluru, India",1 to 50 employees,2013,Company - Private,Staffing & Outsourcing,Business Services,₹10 to ₹50 billion (INR),-1,"Multi Recruit
+",1,7,1,1,0,1
 Data Scientist,"About us & Vision
 
 Sequretek is an Indian MNC focused on Information Security and Information Management space. The company is backed by industry veterans who have come together with a vision to build India’s leading Information Security company.
@@ -2608,7 +2663,8 @@ Has the capability to translate and implement newly published research on specif
 Experienced wrangling large volumes of data and applying machine learning techniques towards real product and business problems
 Invests time in research including publications, and is committed to keeping up with AI trends
 Develop working prototypes of algorithms and evaluate and compare metrics based on large, real-world data sets",4.0,"Sequretek
-4.0",Bengaluru,"Mumbai, India",201 to 500 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+4.0",Bengaluru,"Mumbai, India",201 to 500 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,"Sequretek
+",0,7,1,0,0,1
 Data Scientist-ONWARD,"Data Scientist-ONWARD
 Job Description
 
@@ -2670,7 +2726,8 @@ Worker Sub-Type
 Regular
 Time Type
 Full time",3.9,"Kimberly-Clark
-3.9",Bengaluru,"Irving, TX",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Georgia-Pacific, Unilever"
+3.9",Bengaluru,"Irving, TX",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Georgia-Pacific, Unilever","Kimberly-Clark
+",0,148,1,1,0,1
 "Manager, BI","About the Team
 Workplace Health and Safety (WHS) is constantly looking for ways to improve the safety programs and processes in our sites, so that our associates can stay healthy and safe. The WHS Tech team is a critical partner in these initiativesby delivering deep business insights, developing predictive models and risk frameworks, and creating products and applications that enhance the technology footprint in the core processes. We have just started scratching the surface in terms of possibilities, and are exploring a wide array of technology options to anticipate, assess, and manage workplace hazards and risks, better.
 
@@ -2708,7 +2765,8 @@ Preferred Qualifications
 
 · Masters/PhD is a plus
 · DS/ML Team Leadership experience is desired, but not mandatory",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,0,0,0,1
 Data Scientist- AI,"Description:
 Lymbyc is the first and currently the only player, in the predictive engine-based self-service analytics product space for end business users. We have created the world’s first data scientist, Leni, capable of understanding plain English queries from user, and autonomously being able to take decisions ranging from data selection to algorithm selection and finally visualisation and narratives, without any human intervention. And now we are embarking on bringing explainable component to our AI based solutions, to make the business decisions simpler, easier and adaptable to larger stakeholders.
 
@@ -2744,7 +2802,8 @@ Language – Natural Language Processing, machine translation, emotion detection
 Vision – computer vision, object recognition/tracking, face/gender/age/emotion recognition, OCR/handwriting recognition
 Knowledge and experience in some of the key AI platforms will be important, e.g. IBM Watson, Microsoft Azure, Google Api.Ai, Facebook Wit.Ai, Chatbots using Microsoft Bot Framework
 Knowledge and experience of key machine learning and deep learning framework, e.g. Keras, TensorFlow, Caffe, CNTK, Jiraffe, MXNet and PyTorch commercial technologies/platforms, etc",3.5,"Lymbyc Solutions
-3.5",Bengaluru,"Bengaluru, India",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.5",Bengaluru,"Bengaluru, India",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Lymbyc Solutions
+",1,-1,1,1,0,1
 Data Engineer,"At Rockstar Games, we create the games we would want to play ourselves.
 
 A career at Rockstar is about being part of a team working on some of the most creatively rewarding, large-scale projects to be found in any entertainment medium. You would be welcomed to a friendly, inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.
@@ -2794,7 +2853,8 @@ Please apply with a CV and cover-letter demonstrating how you meet the skills ab
 Rockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.
 
 If you've got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.",3.9,"Rockstar Games
-3.9",Bengaluru,"New York, NY",1001 to 5000 employees,1998,Subsidiary or Business Segment,Video Games,Media,₹1 to ₹5 billion (INR),-1
+3.9",Bengaluru,"New York, NY",1001 to 5000 employees,1998,Subsidiary or Business Segment,Video Games,Media,₹1 to ₹5 billion (INR),-1,"Rockstar Games
+",0,22,1,1,0,0
 Data Scientist/ML Engineer,"About Us: https://paytm.com/about-us/
 
 Why Us:
@@ -2824,7 +2884,8 @@ Analyze and extract relevant information from large amounts of data to help auto
 Hands on experience building models with frameworks like Tensorflow, Caffe, Theano, etc. The motivation to achieve results in a fast-paced environment.
 
 For more Information please connect on monika1.jain@paytm.com",3.5,"Paytm
-3.5",Bengaluru,"Noida, India",1001 to 5000 employees,2010,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+3.5",Bengaluru,"Noida, India",1001 to 5000 employees,2010,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,"Paytm
+",0,10,1,1,0,1
 CIEL/SEL/1882: Data scientist,"Experience in
 Python
 &
@@ -2837,7 +2898,8 @@ NumPy, MatLab, Keras, Tensorflow, PyTorch, scikit learn
 etc
 Â· Should proactively fetch information from various sources and analyze it for better understanding and build AI tools that automate certain processes.
 Â· The primary focus will be in applying data mining techniques, doing statistical analysis, and building high-quality prediction systems integrated within the products",4.5,"CIEL HR Services
-4.5",Bengaluru,"Bengaluru, India",201 to 500 employees,2015,Company - Private,Staffing & Outsourcing,Business Services,₹1 to ₹5 billion (INR),-1
+4.5",Bengaluru,"Bengaluru, India",201 to 500 employees,2015,Company - Private,Staffing & Outsourcing,Business Services,₹1 to ₹5 billion (INR),-1,"CIEL HR Services
+",1,5,1,0,0,0
 Data Scientist,"Machine Learning & AI - Bangalore, IN
 
 Responsibilities
@@ -2861,7 +2923,8 @@ Experience with Big data – advantage
 Experience with Spark – big advantage
 Experience with Deep Learning frameworks (PyTorch, TensorFlow, Keras) – advantage.
 Experience in the Telecommunication domain and/or Fraud prevention - advantage",3.3,"Tomia
-3.3",Bengaluru,"Vienna, VA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.3",Bengaluru,"Vienna, VA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Tomia
+",0,-1,1,1,0,0
 **Principal SA - Autonomous Computing**,"Are you passionate about developing impactful, novel Machine Learning (ML) technology strategy and taking it to large-scale production? Are you passionate about engaging the AI community (AI researchers, developers building AI products, roboticists making robots that work, data scientists, and innovative entrepreneurs in hot startups and large enterprises)?
 
 
@@ -2924,7 +2987,8 @@ Preferred Qualifications
 - 10+ years of engineering, development, data science and modeling experience.
 - Demonstrated experience solving end-to-end large-scale problems in aerospace, transportation, energy, manufacturing, telecommunications, genomics, healthcare and/or robotics with proven AI technologies deployed at scale.
 - Experience with cloud computing and distributed computing.",4.2,"Amazon
-4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+4.2",Bengaluru,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart","Amazon
+",0,26,1,0,1,0
 Data Scientist,"Location: Bangalore, India.
 
 Dasceq: Data – Science – Equilibrium
@@ -2978,7 +3042,8 @@ Required for Interview:
 Current and past jobs pay slip and appointment letter (pdf)
 All diploma and certificate copies (pdf)
 Three References",2.0,"Dasceq
-2.0",Bengaluru,"Irving, TX",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+2.0",Bengaluru,"Irving, TX",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Dasceq
+",0,-1,1,0,0,1
 Data Scientist,"Key Responsibilities
 Build Data Pipelines for AI/ML Solutions using Python
 Build Data Pipelines deployed at the edge (customer locations)
@@ -3045,7 +3110,8 @@ Relocation Eligible:
 Yes
 
 Applied Materials is committed to diversity in its workforce including Equal Employment Opportunity for Minorities, Females, Protected Veterans and Individuals with Disabilities.",3.7,"Applied Materials Inc.
-3.7",Bengaluru,"Santa Clara, CA",10000+ employees,1967,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,₹500+ billion (INR),-1
+3.7",Bengaluru,"Santa Clara, CA",10000+ employees,1967,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,₹500+ billion (INR),-1,"Applied Materials Inc.
+",0,53,1,0,0,0
 Data Scientist,"Description
 BizViz provides a 360 degree view of a business's data, serving any vertical and meeting the demanding needs of all business executives. With a 50+ strong team building the BizViz platform over several years, it is targeted at creating technological solutions that will give our customers the edge they need to succeed.
 
@@ -3078,7 +3144,8 @@ Passion for problem-solving, developing creative solutions, and continuous learn
 Experience in at least one of the following domain - Retail, Healthcare & Education.
 Location
 Bangalore & Hyderabad.",3.0,"BDB
-3.0",Bengaluru,"London, United Kingdom",51 to 200 employees,1993,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.0",Bengaluru,"London, United Kingdom",51 to 200 employees,1993,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"BDB
+",0,27,1,0,0,0
 Lead Data Scientist,"MAIN JOB PURPOSE:
 Unilever is looking to disrupt status quo using data, data science and Machine Learning in a transformative way. Information and Analytics team leads this transformation by building data, data science and analytics as a core capability. The team delivers agile innovation, advanced analytics products (at scale) and work closely with the market teams to ensure that every decision in Unilever is augmented with insight & next best action recommendations.
 
@@ -3100,7 +3167,8 @@ Preferred experience in ‘digital native’ company applying advanced analytics
 Expert knowledge in statistics (Regression, Clustering, Random Forrest, Decision Trees, Optimization, Time Series, Probability, and other related advanced methodologies)
 Experienced knowledge working with large data sets, experience working with distributed computing tools a plus (Map/Reduce, Hadoop, Hive)
 Experienced knowledge working in Microsoft Azure and applying Cortana to develop scaled analytic models in the cloud & Experienced knowledge with relational and columnar databases – SQL is a plus",3.9,"Unilever
-3.9",Bengaluru,"London, United Kingdom",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Nestlé, Johnson & Johnson"
+3.9",Bengaluru,"London, United Kingdom",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Nestlé, Johnson & Johnson","Unilever
+",0,148,0,0,0,0
 Principal Software Engineering - Data Science,"Job Description:
 
 
@@ -3142,7 +3210,8 @@ Shift timings: 11:30 am - 7:30 pm
 Certifications:
 Category:
 Information Technology",4.0,"Fidelity Investments
-4.0",Bengaluru,"Boston, MA",10000+ employees,1946,Company - Private,Investment Banking & Asset Management,Finance,₹500+ billion (INR),"Charles Schwab, Vanguard, Citi"
+4.0",Bengaluru,"Boston, MA",10000+ employees,1946,Company - Private,Investment Banking & Asset Management,Finance,₹500+ billion (INR),"Charles Schwab, Vanguard, Citi","Fidelity Investments
+",0,74,1,1,0,1
 "Data Scientist , Apple Care Online Support","Summary
 Posted: Feb 24, 2020
 Role Number:200131127
@@ -3171,7 +3240,8 @@ Present results of analysis to team and leadership across Apple
 Create metrics to measure the success of the service
 Education & Experience
 Ph.D. in Data Science, Machine Learning, Statistics, Operations Research or related field or B.Tech/M.Tech/M.S. in related field with 5+ years experience applying data science techniques to real business problems.",4.7,"Apple
-4.7",Bengaluru,"Cupertino, CA",10000+ employees,1976,Company - Public,Computer Hardware & Software,Information Technology,₹500+ billion (INR),"Google, Microsoft, Samsung Electronics"
+4.7",Bengaluru,"Cupertino, CA",10000+ employees,1976,Company - Public,Computer Hardware & Software,Information Technology,₹500+ billion (INR),"Google, Microsoft, Samsung Electronics","Apple
+",0,44,1,0,0,1
 Data Scientist,"Data Scientist ( > 4 years experience ) :
 Should be highly skilled in using deep learning algorithms and have expertise on tweaking them for Dunzo specific problem statement
 Should be able to program in python. Should be highly skilled in this.
@@ -3182,7 +3252,8 @@ Should be interested in learning about advancements in deep learning field and g
 Should have skills in using pandas,numpy, scipy, sklearn, spacy, nltk, keras/pytorch/tensorflow and familiar in using gpu machines for training purpose
 Should have an attitude of owning the problem and generating industry standard solutions and ultimately reach to state of the art solutions to the problems.
 It will be really great if presenting at tech conferences is one of the interests. Also, we encourage you to write on tech blog. This part is optional",3.1,"Dunzo
-3.1",Bengaluru,"Bengaluru, India",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+3.1",Bengaluru,"Bengaluru, India",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Dunzo
+",1,-1,1,0,0,0
 Staff Engineer - Frontend,"Qubole is a simple, open, and secure Data Lake Platform for machine learning, streaming, and ad-hoc analytics. Our platform provides end-to-end services that reduce the time and effort required to run Data pipelines, Streaming Analytics, and Machine Learning workloads on any cloud. No other platform offers the openness and data workload flexibility of Qubole while lowering cloud data lake costs by over 50 per cent. Qubole customers process nearly an exabyte of data every month. Qubole investors include Charles River, Institutional Venture Partners, Lightspeed, Norwest, Harmony and Singtel Innov8.
 
 UI engineers in Qubole are responsible for the rich web application hosted at api.qubole.com. We build user interfaces that cater to a wide variety of personas such as Data Analysts, ETL Engineers, and Data Scientists. We are looking for engineers to craft the next generation of Qubole’s user interface.
@@ -3225,7 +3296,8 @@ Transparency and Teamwork: Complete transparency in all our thoughts and actions
 Who Thrives: If you are a self-starter and thrive on complexity and independence and truly understand and live the tenets of humility, hunger and honesty and you will love Qubole.
 
 Qubole is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Qubole does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Qubole also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.",4.5,"Qubole
-4.5",Bengaluru,"Santa Clara, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+4.5",Bengaluru,"Santa Clara, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,"Qubole
+",0,9,0,0,1,0
 Lead Data Scientist,"How will you create an impact within Flutura?
 
 You will play a strategic role in helping us to continuously improve our products and business decisions with your strong problem-solving ability and knack for statistical analysis.
@@ -3289,7 +3361,8 @@ Experience:
 Tead Lead: 2 years (Required)
 Work Remotely:
 Temporarily due to COVID-19",3.7,"Flutura Decision Sciences & Analytics
-3.7",Bengaluru,"Bengaluru, India",51 to 200 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 million (INR),"Mu Sigma, Analytics Quotient, PTC"
+3.7",Bengaluru,"Bengaluru, India",51 to 200 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 million (INR),"Mu Sigma, Analytics Quotient, PTC","Flutura Decision Sciences & Analytics
+",1,8,1,1,0,0
 Data Scientist - PhD,"Company Description
 
 About Affine
@@ -3324,7 +3397,8 @@ industry
 models, supervised and unsupervised ML techniques, etc.)
 • Knowledge of deep learning algorithms (CNN, RNN, autoencoders, etc.)
 • Knowledge in databases preferable",3.8,"Affine Analytics
-3.8",Bengaluru,"Bengaluru, India",201 to 500 employees,2011,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+3.8",Bengaluru,"Bengaluru, India",201 to 500 employees,2011,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,"Affine Analytics
+",1,9,1,0,0,0
 Associate Data Scientist - MFG,"Noodle's Data Scientists build advanced AI models that change the way our clients do business by empowering them to make better decisions. Our solutions impact small and large businesses ranging from media, to retail companies, to airlines, to e-commerce, financial services, to government agencies. Members of our Data Science team are passionate about problem solving with applied data science and work with clients to explore, specify, and communicate high-value, AI- based solutions. We geek out about AI technology.
 
 As a Data Scientist at Noodle.ai, you will collaborate with the Noodle Client Service team, Data Engineers, SW Engineers, UX Designers, and industry-specific experts from our client companies to build a deep understanding of our clients' business context and then develop, test, and deploy advanced AI models. As we grow, you will also develop reusable IP to help us move faster, dive deeper, and work more efficiently by generalizing the models, methodologies, and supporting infrastructure that you build. As one of the early hires to join the Noodle.ai team, you will have a significant impact on the future of Enterprise Artificial Intelligence.
@@ -3361,10 +3435,12 @@ Experience manipulating and preparing large, heterogeneous data sets (""Big Data
 Demonstrated energy and passion that extends beyond your field of study – Are you a computer scientist who writes poetry? A mathematician who loves psychology? An engineer passionate about public policy? We want to build something with
 
 Experience with (and excitement for) interdisciplinary collaboration",4.5,"Noodle.ai
-4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1
+4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1,"Noodle.ai
+",0,4,1,1,0,0
 Data Scientist,"Data Scientist Bangalore As a fully functioning analytics team member, applies best practices to analytics solutions and contributes to the development of improved best practices. Below are the MUST HAVES: • Experience as Data Scientist - Fortune 100 Clients - Prefer Product Base. • Data analysis experience working with large-scale data. • Strong experience using Python & SQL for analysis, modeling, and data visualization.
 Advanced statistics, data mining and modeling knowledge. Requirements: • Advanced Python for Data Science (descriptive / predictive models) + Strong Stats background Own the end to end data science process, from initiation to deployment, and through ongoing communication and collaboration. • Drive personalization, real-time decision-making, causal inference, and predictive analytics capabilities through the application of Machine Learning, Deep Learning, NLP, and Simulation in an agile development framework. • Conduct quantitative analysis of experimental, and textual data to generate insights and drive decision making (ANOVA, Regression, Chi-Sq, AB, pre-post etc..) Working knowledge of SQL, Tableau, Hadoop, BigQuery, Presto, Vertica Write well documented code that can be shared and used across teams, and can scale to be used in existing products",3.3,"Calsoft Labs
-3.3",Bengaluru,"Bengaluru, India",1001 to 5000 employees,1992,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Mindtree, Happiest Minds Technologies, Altran Americas"
+3.3",Bengaluru,"Bengaluru, India",1001 to 5000 employees,1992,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Mindtree, Happiest Minds Technologies, Altran Americas","Calsoft Labs
+",1,28,1,0,0,0
 Senior Data Scientist,"Role Summary:
 We are looking for a highly motivated individual, passionate about technology to join Baker Hughes Digital team. As the Senior Data Scientist, in Baker Hughes Digital, you will focus on developing impactful and innovative analytics products for the O&G industry. The candidate will be responsible for designing analytics for products and solutions, leverage strong machine learning expertise to develop new analytics for driving growth in asset, application & industry coverage and lead engagements with external/internal customers. The candidate is also expected to mentor other engineers in analytics methods.
 
@@ -3443,7 +3519,8 @@ Empathizes with multiple points of view
 
 Locations:
 Bangalore, India",3.6,"Baker Hughes
-3.6",Bengaluru,"Houston, TX",10000+ employees,-1,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",₹500+ billion (INR),-1
+3.6",Bengaluru,"Houston, TX",10000+ employees,-1,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",₹500+ billion (INR),-1,"Baker Hughes
+",0,-1,1,1,0,1
 Junior Data Scientist,"Junior Data Scientist
 Job Description
 
@@ -3516,7 +3593,8 @@ Worker Sub-Type
 Regular
 Time Type
 Full time",3.9,"Kimberly-Clark
-3.9",Bengaluru,"Irving, TX",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Georgia-Pacific, Unilever"
+3.9",Bengaluru,"Irving, TX",10000+ employees,1872,Company - Public,Consumer Products Manufacturing,Manufacturing,₹500+ billion (INR),"Procter & Gamble, Georgia-Pacific, Unilever","Kimberly-Clark
+",0,148,1,1,0,1
 Principal Data Scientist - BLR,"As a Data Scientist at Noodle.ai, you will collaborate with our Enterprise Services team,Software Engineers, Designers, and industry-specific experts from our customers. You willvbuild a deep understanding of the business problems our customers are tackling and then develop, test, and deploy advanced machine learning algorithms. As we grow, you will also develop reusable IP to help us move faster, dive deeper, and work more efficiently by generalizing the algorithms, methodologies, and supporting infrastructure that you build. As one of the early hires to join the Noodle.ai team, you will have a significant impact on the future of Enterprise Artificial Intelligence.
 
 Job responsibilities:
@@ -3565,7 +3643,8 @@ Strong problem solving skills with an emphasis on product development
 Focus on delivering value and building lasting relationships through collaboration in an open and respectful working style
 
 Passion for learning and a desire to grow",4.5,"Noodle.ai
-4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1
+4.5",Bengaluru,"San Francisco, CA",201 to 500 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹1 to ₹5 billion (INR),-1,"Noodle.ai
+",0,4,1,1,0,0
 "Lead Data Engineer, Enterprise Data","Ref #:
 5575702
 
@@ -3641,7 +3720,8 @@ Has good judgment, a sense of urgency and has demonstrated commitment to high st
 #LI-AD1
 
 Lead Data Engineer, Enterprise Data",3.5,"Ralph Lauren
-3.5",Bengaluru,"New York, NY",10000+ employees,1967,Company - Public,Other Retail Shops,Retail,₹500+ billion (INR),-1
+3.5",Bengaluru,"New York, NY",10000+ employees,1967,Company - Public,Other Retail Shops,Retail,₹500+ billion (INR),-1,"Ralph Lauren
+",0,53,1,1,1,0
 Data Scientist Intern,"Location: Bangalore, India.
 
 Dasceq: Data – Science – Equilibrium
@@ -3700,7 +3780,8 @@ Current and past jobs pay slip and appointment letter (pdf)
 All diploma and certificate copies (pdf)
 Three References
 * Women willing to start/restart their career can also apply",2.0,"Dasceq
-2.0",Bengaluru,"Irving, TX",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+2.0",Bengaluru,"Irving, TX",1 to 50 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,"Dasceq
+",0,-1,1,0,0,1
 Lead Data Scientist,"Position Description
 
 This position is in the data science team under the Advertising Technology organization. The mission of the Advertising Technology organization is to advance Walmart eCommerce by driving higher value for our customers and vendor partners. Walmart is investing in building a world class advertising platform and the Ads team is responsible for defining and performance advertising products that drive discovery, sales and profits.
@@ -3746,7 +3827,8 @@ Experience with end-to-end modelling projects emerging from research efforts;
 Excellent academic or industrial track record of proposing, conducting and reporting results of original research, plus collaborative research with publications;
 
 2+ years of experience managing a data science/modelling team.",3.3,"Walmart
-3.3",Bengaluru,"Bentonville, AR",1001 to 5000 employees,1962,Company - Public,"Department, Clothing, & Shoe Shops",Retail,₹500+ billion (INR),"Target, Costco Wholesale, Amazon"
+3.3",Bengaluru,"Bentonville, AR",1001 to 5000 employees,1962,Company - Public,"Department, Clothing, & Shoe Shops",Retail,₹500+ billion (INR),"Target, Costco Wholesale, Amazon","Walmart
+",0,58,1,0,0,1
 Data Scientist Intern,"Pursuing Masters or equivalent advanced degree from a top tier Technology school
 Record of delivering large analytical solutions with business impact
 Experience on R/SAS/Matlab and SQL
@@ -3767,7 +3849,7 @@ Academic experience in manipulating/transforming data, model selection, model tr
 Academic or Project Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and PyTorch.
 Academic Experience with Big Data platforms like Apache Spark and Hadoop.
 Familiarity with data processing with Python, R & SQL.
-Familiarity with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc.",-1,ADCI - Karnataka,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Familiarity with AWS services related to AI/ML highly desirable, particularly Amazon EMR, AWS Lambda, SageMaker, Machine Learning, IoT, Amazon DynamoDB, Amazon S3, Amazon EC2 Container Service, Green Grass etc.",-1.0,ADCI - Karnataka,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,ADCI - Karnataka,0,-1,1,1,1,1
 Principal Data Scientist,"Yodlee’s Data Science team is driving innovations using Big Data at Yodlee. We have a high-caliber, focused and a mission-driven culture for our teams. The models we build and the analysis that we derive from financial data matters to crucial cutting-edge business decisions made across the global financial services firms every day and solves real world problems. We are leveraging our deep expertise in financial data to launch innovative solutions into the Financial Services Industry.
 
 Description
@@ -3785,7 +3867,7 @@ Required Skills and Experience:
 Deep understanding of statistical modeling/machine learning/ data mining concepts
 Strong analytical and quantitative problem solving ability
 Strong interpersonal and communication skills: ability to tell a clear, concise, actionable story with data, to folks across various levels of the company.
-Experience in managing high performance teams",-1,Envestnet | Yodlee,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Experience in managing high performance teams",-1.0,Envestnet | Yodlee,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Envestnet | Yodlee,0,-1,0,0,0,0
 Lead Data Scientist,"Brillio is forging ahead aggressively amidst the current COVID-19 situation and continues to hire for various roles globally - with all interviewing and on-boarding done virtually. Brillio has invested in the right capabilities to adapt to the new normal and empower its employees to operate seamlessly. All the new joiners, along with the Brillio family, will temporarily work remotely until it is safe to return to our offices. Read Brillio’s Chief Operating and Delivery Officer, Aftab Ullah’s statement about Brillio's hiring plans in the leading publications - The Times of India and The Week’s latest stories about the positive hiring sentiments of tech firms.
 
 
@@ -3849,7 +3931,8 @@ o Expertise in Image, Video, Speech, Sound, Text domain
 o Working knowledge of concepts and application of Design of Experiments
 
 o Depth across areas within the domain or industry",3.1,"Brillio
-3.1",Bengaluru,"Santa Clara, CA",1001 to 5000 employees,2014,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),-1
+3.1",Bengaluru,"Santa Clara, CA",1001 to 5000 employees,2014,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),-1,"Brillio
+",0,6,1,1,1,1
 "Director, Engineering","Danaher Digital
 
 Danaher Digital is our digital innovation, incubation and acceleration center where were bringing together the leading strategic product and business leaders, technologists and data scientists for the common purpose of accelerating development and commercialization of disruptive and transformative digital solutions into the marketplace.
@@ -3917,9 +4000,10 @@ Other qualifications:
 • Likes to win, has fun doing it, and energizes the organization around a winning agenda
 • Bachelors degree in Computer Science, Engineering, or related discipline. MS or MBA preferred.
 
-Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The EEO is the Law poster is available here.",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The EEO is the Law poster is available here.",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,0,0,0,1
 Advanced Analytics Cons 3,"About Enterprise Global Services Enterprise Global Services (EGS) enables global talent capabilities for Wells Fargo Bank NA., by supporting over half of Wells Fargo's business lines and staff functions across Technology, Business Services, Risk Services and Product, Analytics and Modeling (PAM). EGS operates in Hyderabad, Bengaluru and Chennai in India and in Manila, Philippines. Learn more about EGS at our International Careers website Department Overview Product, Analytics and Modeling (PAM) brings a team member-based approach to the international talent pool focusing on analytical requirements. PAM encompasses roles that deliver meaningful insights, analysis and reporting based on skills, experience and judgment to support the Enterprise Analytics and Data Science (EADS) organization operate successfully today, and continue on the right trajectory to operate successfully in the future. About the Role Analytic Consultant/Data Scientist is a partner-facing role and is responsible for delivering high impact analytic and data science projects by using analytics, in support of operational risk initiatives across consumer lending. This role supports analytics requirements for Credit Bureau Oversight and Quality reporting along with reporting for Issues Management. EADS is the central analytics group tasked with solving high-impact business challenges and standing up cutting-edge analytical capabilities to be shared across Wells Fargos analytic community. We are looking for a high performer to join our team and help us solve challenging and interesting business problems through rigorous data analysis and predictive modeling. In this highly consultative and visible role, you will support development analytic projects from multiple business lines using various technology and techniques ranging from but not limited to supervised, unsupervised and semi-supervised machine learning, deep-learning, NLP, optimization algorithms in both edge nodes and in big data environments (like hortonworks, MapR, Aster etc.) Responsibilities : Person would be required to work individually or as part of a team on data science projects and work closely with business partners across the organization. He/she would be developing statistical/machine learning models using various techniques (supervised, unsupervised, semi-supervised) and technologies including but not limited to SAS, R, Python, Spark, H2O, Aster etc. Work closely with data engineers, BI and UI specialists and deliver top notch analytical solution for the bank. Define business problem and translate it into analytical problem. 49159",3.6,"Wells Fargo
-3.6",Bengaluru,"San Francisco, CA",10000+ employees,1852,Company - Public,Banks & Building Societies,Finance,₹500+ billion (INR),-1
+3.6",Bengaluru,"San Francisco, CA",10000+ employees,1852,Company - Public,Banks & Building Societies,Finance,₹500+ billion (INR),-1,"Wells Fargo
+",0,168,1,1,0,0
 "Software Developer, Cloud Services Engineering","Software Engineer Cloud Platform Services
 
 Company Overview
@@ -3995,7 +4079,7 @@ SQL and key-value store
 Dockers & Containerization
 SpringBoot framework
 Functional (serverless) programming
-Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The EEO is the Law poster is available here.",-1,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The EEO is the Law poster is available here.",-1.0,Danaher Digital,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Danaher Digital,0,-1,1,1,1,1
 Data Scientist,"About Mate Labs (https://www.matelabs.ai/):
 
 Mate Labs is looking for a kick-ass and enthusiastic Data Scientist who has a really good understanding of machine learning and deep learning. We love GitHub and open source projects. We look for guys who are passionate for open source projects and contributions.
@@ -4042,9 +4126,10 @@ Amazing team to work with.
 
 Health Insurance for the employees.
 
-A lot of freedom to experiment with new things.",-1,Matelabs Innovations Pvt. Ltd.,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+A lot of freedom to experiment with new things.",-1.0,Matelabs Innovations Pvt. Ltd.,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Matelabs Innovations Pvt. Ltd.,0,-1,1,0,0,0
 Advanced Analytics Cons 4,"About Enterprise Global Services Enterprise Global Services (EGS) enables global talent capabilities for Wells Fargo Bank NA., by supporting over half of Wells Fargo's business lines and staff functions across Technology, Business Services, Risk Services and Product, Analytics and Modeling (PAM). EGS operates in Hyderabad, Bengaluru and Chennai in India and in Manila, Philippines. Learn more about EGS at our International Careers website Department Overview Product, Analytics and Modeling (PAM) brings a team member-based approach to the international talent pool focusing on analytical requirements. PAM encompasses roles that deliver meaningful insights, analysis and reporting based on skills, experience and judgment to support the Enterprise Analytics and Data Science (EADS) organization operate successfully today, and continue on the right trajectory to operate successfully in the future. About the Role Analytic Consultant/Data Scientist is a partner-facing role and is responsible for delivering high impact analytic and data science projects by using analytics, in support of operational risk initiatives across consumer lending. This role supports analytics requirements for Credit Bureau Oversight and Quality reporting along with reporting for Issues Management. EADS is the central analytics group tasked with solving high-impact business challenges and standing up cutting-edge analytical capabilities to be shared across Wells Fargos analytic community. We are looking for a high performer to join our team and help us solve challenging and interesting business problems through rigorous data analysis and predictive modeling. In this highly consultative and visible role, you will support development analytic projects from multiple business lines using various technology and techniques ranging from but not limited to supervised, unsupervised and semi-supervised machine learning, deep-learning, NLP, optimization algorithms in both edge nodes and in big data environments (like hortonworks, MapR, Aster etc.) Responsibilities : Person would be required to work individually or as part of a team on data science projects and work closely with business partners across the organization. He/she would be developing statistical/machine learning models using various techniques (supervised, unsupervised, semi-supervised) and technologies including but not limited to SAS, R, Python, Spark, H2O, Aster etc. Work closely with data engineers, BI and UI specialists and deliver top notch analytical solution for the bank. Define business problem and translate it into analytical problem 49162",3.6,"Wells Fargo
-3.6",Bengaluru,"San Francisco, CA",10000+ employees,1852,Company - Public,Banks & Building Societies,Finance,₹500+ billion (INR),-1
+3.6",Bengaluru,"San Francisco, CA",10000+ employees,1852,Company - Public,Banks & Building Societies,Finance,₹500+ billion (INR),-1,"Wells Fargo
+",0,168,1,1,0,0
 Data Scientist,"Apply Now
 
 Understanding and experience with leading supervised and unsupervised machine learning methods such as GLM/Regression, Logistic Regression, Neural Networks, Deep Learning, KNN, Naive Bayes, SVM, Decision Trees, Random Forest, Gradient Boosting, Ensemble Methods, Text Mining, Social Network Analysis, Unobserved Components Modeling (UCM) and Use Scenario based Optimization Techniques.
@@ -4052,7 +4137,7 @@ Should be a Data Scientist with extensive predictive Modeling and Machine Learni
 Candidate should have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
 
 For more details, Contact :
-+91 - 7022998695",-1,Shiras HR Advisory & Services,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
++91 - 7022998695",-1.0,Shiras HR Advisory & Services,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,Shiras HR Advisory & Services,0,-1,0,0,0,0
 Applied Scientist,"Bachelor’s/Master Degree in Computer Science with advanced degrees preferred.
 5+ years of hands on experience in building machine learning systems for large data sets.
 Strong skills in problem solving, programming and computer science fundamentals.
@@ -4069,4 +4154,4 @@ Diversity (models need to work across different languages, market places and dat
 Come join us in our journey to make everything – and yes, we do mean *everything* – that anyone wants to buy, available on Amazon!
 PhDs, specialized in Information Retrieval and Machine Learning.
 Experience in designing and implementing information retrieval, web mining systems using Deep Learning and Neural Networks.
-Big thinker that can take broad visions and concepts and develop structured plans, actions and measurable metrics and then execute those plans.",-1,ADCI - Karnataka,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1
+Big thinker that can take broad visions and concepts and develop structured plans, actions and measurable metrics and then execute those plans.",-1.0,ADCI - Karnataka,Bengaluru,-1,-1,-1,-1,-1,-1,-1,-1,ADCI - Karnataka,0,-1,1,0,0,0

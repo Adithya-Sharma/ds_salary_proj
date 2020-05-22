@@ -11,3 +11,4 @@ path="C:/Users/Dell/Documents/ds_salary_proj/chromedriver"
 
 df=gs.get_jobs('Data Scientist, Machine Learning,Deep Learning',100,False,path,15)
 df.to_csv('glassdoor_jobs.csv',index=False)
+
